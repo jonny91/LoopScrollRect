@@ -1,0 +1,28 @@
+{
+  "name": "me.qiankanglai.loopscrollrect",
+  "version": "1.0.6",
+  "displayName": "LoopScrollRect",
+  "description": "make your ScrollRect `Reusable`",
+  "unity": "2020.3",
+  "unityRelease": "14f1",
+  "documentationUrl": "https://github.com/qiankanglai/LoopScrollRect/blob/master/README.md",
+  "licensesUrl": "https://github.com/qiankanglai/LoopScrollRect/blob/master/LICENSE.md",
+  "dependencies": {
+    "com.unity.ugui": "1.0.0"
+  },
+  "keywords": [
+    "UGUI"
+  ],
+  "author": {
+    "name": "Kanglai Qian",
+    "email": "qiankanglai@gmail.com",
+    "url": "http://qiankanglai.me"
+  },
+  "samples": [
+    {
+      "displayName": "BasicDemo",
+      "description": "Contains several Loop Scroll example",
+      "path": "Demo~"
+    }
+  ]
+}
