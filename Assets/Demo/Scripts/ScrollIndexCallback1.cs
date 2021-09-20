@@ -7,7 +7,7 @@ public class ScrollIndexCallback1 : MonoBehaviour
     public Image image;
 	public Text text;
 
-    void ScrollCellIndex (int idx) 
+    protected virtual void ScrollCellIndex (int idx) 
     {
 		string name = "Cell " + idx.ToString ();
 		if (text != null) 
